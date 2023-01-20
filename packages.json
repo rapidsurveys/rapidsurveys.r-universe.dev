@@ -1,0 +1,18 @@
+[
+    {
+        "package": "bbw",
+        "url": "https://github.com/rapidsurveys/bbw"
+    },
+    {
+        "package": "oldr",
+        "url": "https://github.com/rapidsurveys/oldr"
+    },
+    {
+        "package": "odkr",
+        "url": "https://github.com/rapidsurveys/odkr"
+    },
+    {
+        "package": "okapi",
+        "url": "https://github.com/rapidsurveys/okapi"
+    }
+]
